@@ -25,3 +25,5 @@ php artisan serve
 -   api/auth/signup
 -   api/auth/signout
 -   api/auth/refresh
+
+## Feel free to discus etc

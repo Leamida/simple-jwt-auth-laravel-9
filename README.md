@@ -21,8 +21,8 @@ php artisan serve
 ```
 
 ## Route
--   api/auth/signin
-email (required, email)
+-   api/auth/signin\
+email (required, email)\
 password (required)
 ```
 {
@@ -31,10 +31,11 @@ password (required)
 }
 ```
 -   api/auth/signup
-```
-name (required, only Alphabet and Space, max:50)
-email (required, email)
+name (required, only Alphabet and Space, max:50)\
+email (required, email)\
 password (required)
+```
+
 {
     "name":"yourname",
     "email":"your@email.com",

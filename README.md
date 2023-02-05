@@ -42,10 +42,10 @@ password (required)
     "password":"yourpassword"
 }
 ```
--   api/auth/signout
+-   api/auth/signout\
 Just hit the endpoint with token given and set it on Authorization Header with given token
 
--   api/auth/refresh
+-   api/auth/refresh\
 Just hit the endpoint with token given and set it on Authorization Header with given token
 
 ## Feel free to discus etc

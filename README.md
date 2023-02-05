@@ -30,7 +30,7 @@ password (required)
     "password":"yourpassword"
 }
 ```
--   api/auth/signup
+-   api/auth/signup\
 name (required, only Alphabet and Space, max:50)\
 email (required, email)\
 password (required)
